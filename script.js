@@ -89,7 +89,7 @@ function criarCard(p) {
     let msg = LOJA.mensagemPadrao + "\n\n• Produto: " + p.nome;
     if (escolha.cor) msg += "\n• Cor: " + escolha.cor;
     if (escolha.tamanho) msg += "\n• Tamanho: " + escolha.tamanho;
-    msg += "\n• Valor: " + textoPreco(p) + (p.promocao ? " (" + p.promocao + ")" : "");
+    if (p.preco) msg += "\n• Valor: " + textoPreco(p) + (p.promocao ? " (" + p.promocao + ")" : "");
     botao.href = linkWhatsApp(msg);
   }
   atualizarLink();
