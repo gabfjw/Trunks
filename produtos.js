@@ -20,10 +20,10 @@ const LOJA = {
 
   // Número do WhatsApp do vendedor: código do país (55) + DDD + número,
   // só números, sem espaços, traços ou parênteses. Ex.: "5571999998888"
-  whatsapp: "5500000000000",
+  whatsapp: "5571981692884",
 
   // Início da mensagem que chega no WhatsApp do vendedor
-  mensagemPadrao: "Olá! Vim pelo site da Atlética Feroz e tenho interesse em:",
+  mensagemPadrao: "Olá! Vim pelo site da Atlética Feroz e estou interessado(a) neste produto:",
 
   instagram: "", // ex.: "atleticaferoz" (deixe vazio para esconder)
 };
