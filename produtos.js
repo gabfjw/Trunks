@@ -32,8 +32,8 @@ const PRODUTOS = [
   {
     nome: "Camisa Fisioterapia",
     descricao: "Camiseta com estampa da pantera nas costas e “Fisioterapia” na frente.",
-    preco: "50,00",
-    promocao: "2 por R$ 95,00",
+    preco: "0,00",
+    promocao: "",
     etiqueta: "Mais vendida",
     fotos: ["imagens/camisa.jpg", "imagens/camisa-fotos.jpg"],
     cores: ["Preta", "Branca"],
@@ -42,7 +42,7 @@ const PRODUTOS = [
   {
     nome: "Cropped Fisioterapia A.A.A.F.U",
     descricao: "Cropped de um ombro só com bordado rosa.",
-    preco: "",
+    preco: "0,00",
     promocao: "",
     etiqueta: "",
     fotos: ["imagens/cropped-preto.jpg", "imagens/cropped-branco.jpg"],
@@ -52,7 +52,7 @@ const PRODUTOS = [
   {
     nome: "Short Panthro",
     descricao: "Short com a pantera Feroz e lateral estampada “Solta o Panthro”.",
-    preco: "",
+    preco: "0,00",
     promocao: "",
     etiqueta: "",
     fotos: ["imagens/short.jpg"],
@@ -62,7 +62,7 @@ const PRODUTOS = [
   {
     nome: "Camisa de Jogo",
     descricao: "Uniforme oficial com escudo da Atlética Feroz. Pode personalizar o número.",
-    preco: "",
+    preco: "0,00",
     promocao: "",
     etiqueta: "Oficial",
     fotos: ["imagens/camisa-jogo-vermelha.jpg", "imagens/camisa-jogo-preta.jpg"],
@@ -72,7 +72,7 @@ const PRODUTOS = [
   {
     nome: "Regata de Jogo Feminina",
     descricao: "Regata oficial com escudo da Atlética Feroz. Pode personalizar o número.",
-    preco: "",
+    preco: "0,00",
     promocao: "",
     etiqueta: "Oficial",
     fotos: ["imagens/regata-jogo-vermelha.jpg", "imagens/regata-jogo-preta.jpg"],
@@ -82,7 +82,7 @@ const PRODUTOS = [
   {
     nome: "Boné Panthro",
     descricao: "Boné 5 painéis com ilhós bordados, costuras reforçadas, fecho ajustável e pantera bordada atrás.",
-    preco: "",
+    preco: "0,00",
     promocao: "",
     etiqueta: "Novo",
     fotos: ["imagens/bone.jpg", "imagens/bone-detalhes.jpg"],
@@ -93,7 +93,7 @@ const PRODUTOS = [
   {
     nome: "Caneca Feroz",
     descricao: "“A Feroz te ensina a posição correta.” Caneca de alumínio com o escudo.",
-    preco: "35,00",
+    preco: "0,00",
     promocao: "",
     etiqueta: "",
     fotos: ["imagens/caneca.jpg"],
@@ -104,7 +104,7 @@ const PRODUTOS = [
   {
     nome: "Tirante",
     descricao: "“A Feroz é o mundo · Seu corpo pede fisio.”",
-    preco: "25,00",
+    preco: "0,00",
     promocao: "",
     etiqueta: "",
     fotos: ["imagens/tirante.jpg"],
